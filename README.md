@@ -14,3 +14,10 @@ I'm a BTech CSE student focused on building AI-powered systems that solve practi
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### Self Introductory Video:
+
+https://github.com/user-attachments/assets/9a6bf75a-dd7b-4d8c-9f14-847181f4f6fa
+
+
+
